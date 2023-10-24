@@ -1,3 +1,11 @@
+
+# 연도별로 작업해서 합칠게요.
+# 컬럼명은 ['title', 'reviews']로 통일하겠습니다.
+# 파일명은 reviews_{연도}.csv 로 하겠습니다.
+# 경민님이 2013-2015
+# 재희님이 2016-2023 해주세요.
+
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service as ChromeService
